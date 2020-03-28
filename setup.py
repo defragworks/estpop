@@ -79,7 +79,7 @@ setup(
 
     # This should be your name or the name of the organization which owns the
     # project.
-    author='The Python Packaging Authority',  # Optional
+    author='defrag.works (Kaoru Mori, Hiroaki Kawata)',  # Optional
 
     # This should be a valid email address corresponding to the author listed
     # above.
@@ -123,7 +123,7 @@ setup(
 
     # When your source code is in a subdirectory under the project root, e.g.
     # `src/`, it is necessary to specify the `package_dir` argument.
-    package_dir={'': 'src'},  # Optional
+    # package_dir={'': 'src'},  # Optional
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().

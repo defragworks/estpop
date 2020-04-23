@@ -80,4 +80,4 @@ f.close()
 
 # References
 
-1. Einoshin SUZUKI, Kaoru MORI, Koichi NAGASE, Masatoshi TAMAMURA, Ikuyo KANEKO: The Development of the Future Predictive Model of 'Potentially Disappearing Neighborhood Associations' Using Demographic Data of the Neighborhood Association Base, Journal of the Japan Association of Regional Development and Vitalization. Vol.6, pp.20-30 (2015)
+1. Einoshin SUZUKI, Kaoru MORI, Koichi NAGASE, Masatoshi TAMAMURA, Ikuyo KANEKO: The Development of the Future Predictive Model of 'Potentially Disappearing Neighborhood Associations' Using Demographic Data of the Neighborhood Association Base, Journal of the Japan Association of Regional Development and Vitalization, Vol.6, pp.20-30, 2015.

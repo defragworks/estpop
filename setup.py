@@ -42,7 +42,7 @@ setup(
     # For a discussion on single-sourcing the version across setup.py and the
     # project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.0.1',  # Required
+    version='0.0.3',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
@@ -79,7 +79,7 @@ setup(
 
     # This should be your name or the name of the organization which owns the
     # project.
-    author='defrag.works (Kaoru Mori, Hiroaki Kawata)',  # Optional
+    author='defrag.works',  # Optional
 
     # This should be a valid email address corresponding to the author listed
     # above.
@@ -119,7 +119,7 @@ setup(
     # project page. What does your project relate to?
     #
     # Note that this is a string of words separated by whitespace, not a list.
-    keywords='sample setuptools development',  # Optional
+    keywords='simulation',  # Optional
 
     # When your source code is in a subdirectory under the project root, e.g.
     # `src/`, it is necessary to specify the `package_dir` argument.
@@ -134,7 +134,8 @@ setup(
     #
     #   py_modules=["my_module"],
     #
-    packages=find_packages(where='src'),  # Required
+    # packages=find_packages(where='src'),  # Required
+    packages = ['estpop'],
 
     # Specify which Python versions you support. In contrast to the
     # 'Programming Language' classifiers above, 'pip install' will check this
